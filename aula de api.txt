@@ -1,0 +1,8 @@
+API
+
+primeira aula de api 
+
+api é um conseito de client = cliente e server = servidor 
+
+https://start.spring.io/ 
+
