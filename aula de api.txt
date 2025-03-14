@@ -1,8 +1,40 @@
 API
-
+12/03
 primeira aula de api 
 
 api é um conseito de client = cliente e server = servidor 
 
 https://start.spring.io/ 
+
+======================
+13/03 Revisao 
+
+esteriotipar
+classificar tudo
+
+coloca as dependencias no pom.xml e o pom é do maven
+
+baixamos o postman https://www.postman.com/ ela simula operaçoes (post, put, get delete patch)
+
+conseito do envelope 
+
+porta 500 quando o programa quebrou 
+porta 300 retirecionamento 
+porta 400 quando nao encontra o pedido (tipo procura um cod e nao acha )
+porta 200 OK
+
+Ctrl  + Shift + o  =importa tudo;
+
+
+
+
+
+
+
+
+
+
+
+
+
 
