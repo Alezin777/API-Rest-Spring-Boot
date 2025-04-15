@@ -24,6 +24,46 @@ porta 400 quando nao encontra o pedido (tipo procura um cod e nao acha )
 porta 200 OK
 
 Ctrl  + Shift + o  =importa tudo;
+========================
+14/03  aula de BANCO 
+
+Projeto:
+registramos dados em um arquivo txt, usando postman e api Spring web e dev tools
+
+==========================
+17/03 git
+
+introduçao a banco de dados para api
+
+
+dto (data transfer object )
+===========================
+18/03 mysql inserindo dados
+==============================
+24/03 https://jsonlint.com/
+ele valida se o formato json
+================================
+04/04
+sites pra freela
+https://www.99freelas.com.br/como-funciona?for=freelancer
+https://www.workana.com/pt
+site para vagas
+https://www.glassdoor.com.br/index.htm
+solucionar problemas 
+stack overflow
+
+
+
+========================================
+14/04
+https://swagger.io/
+
+
+
+
+
+
+
 
 
 
