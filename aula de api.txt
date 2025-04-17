@@ -66,8 +66,8 @@ https://www.sp.senac.br/senac-aclimacao/cursos-livres/curso-de-como-falar-em-pub
 Entrevistas On-line em Inglês
 https://www.sp.senac.br/cursos-livres/curso-de-entrevistas-on-line-em-ingles
 
-
-
+aqui eu pego a dependencia do swagger
+https://springdoc.org/
 
 
 
